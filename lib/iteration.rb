@@ -53,6 +53,7 @@ def total_even_pairs(src)
       #add the two numbers to the total
     end
     i += 1
+    #increment to the next array
   end
   total
 end
